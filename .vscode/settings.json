@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "d:/Software/anaconda3/envs/RS/Lib/site-packages",
-        "./Learn_yss",
-        "./Learn_yss"
-    ]
-}
